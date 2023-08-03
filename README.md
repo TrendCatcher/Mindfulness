@@ -16,10 +16,16 @@
 - 요구사항 정의해보기
 - usecase 정의해보기 
 - TDD 적용
+<CI/CD, 배포까지 적용>
+- CI/CD Tool
+
+### 공부 환경
+- 지속적으로 자극받으면서 기술 적용할 수 있는 환경에 대해 고민하기
+  - 스터디, 교육
 
 ## Daily Implementation
 - 23/07/25: 간단한 Controller, 웹 홈페이지 구축 
-
+- 
 
 ### REVIEW
 ![img.png](img.png)
