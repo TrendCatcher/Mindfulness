@@ -9,7 +9,7 @@ public class MemoryMemberRepositoryTest {
     @Test
     public void save(){
         Member member = new Member();
-        member.setName("minfulness");
+        member.setName("mindfulness");
 
         repository.save(member);
     }
