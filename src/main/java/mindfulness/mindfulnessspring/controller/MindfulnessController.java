@@ -27,16 +27,13 @@ public class MindfulnessController{
     public String mindfulnessString(@RequestParam("name") String name){
         return "mindfulness"+ name;
     }
-
     @GetMapping("mindfulness-api")
     @ResponseBody
-    //object created
     public Mindfulness mindfulnessApi(@RequestParam("name") String name){
         Mindfulness mindfulness = new Mindfulness();
         mindfulness.setName(name);
-        return mindfulness; //객체를 반환, JSON방식(key:value)으로 데이터 교환
+        return mindfulness;
     }
-
     static class Mindfulness{
         private String name;
 
@@ -48,5 +45,5 @@ public class MindfulnessController{
             this.name = name;
         }
     }
-
 }
+
