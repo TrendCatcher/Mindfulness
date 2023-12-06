@@ -1,21 +1,25 @@
 # Mindfulness Project 
 
-## 진행기간
-2023-07-25 ~ 2023-09 (중 예정)
+## 📱프로젝트 소개
+자신의 현재 마음 상태를 진단하고 이에 맞는 점진적 솔루션을 제시하여 (심각도에 따라)
+마음을 단단히 할 수 있는 지리적으로 가까운 지역 (헬스장, 요가원, 필라테스 센터)등도 추천해준다. 
 
-## 🔽 개발환경
-- 개발언어: java, HTML5, Javascript, XML, JSON
-- 개발도구: 
-- 프레임워크: Spring Boot 
-- 데이터베이스: 
-- WAS : Apache TomCat
+## 📅 진행기간
+- 12/1 ~ 12/31(예정)
 
 ## ✔ 목표(주요 내용) 
-- 경기침체가 장기화되는 가운데, 불안감 속에서 살아가는 현대인들을 위한 마인드 케어 웹 홈페이지 
-- 간단한 반응형 웹 홈페이지 형태로 Spring framework로 제작, view template는 드림코딩 등을 시청하며 홈페이지 꾸려 나가기 
+- 불안감 속에서 살아가는 현대인들을 위한 마인드 케어 웹 홈페이지 
+- 회원의 현재 심신 건강을 흥미로운 방식(간단, 시선을 끌게)으로 진단하여 참여를 도모, 이에 맞는 점진적인 솔루션을 제시
 - 주변 요가원, 헬스장, 필라테스 센터등을 띄워주는 지도도 제공하기 (개인 맞춤서비스도 제공)
-- 
-## 사용 스킬 및 개발 목표
+  
+## 🛠 개발환경 && 사용 스킬
+- 개발언어: java, HTML5, Javascript, XML, JSON
+- 개발도구:
+- 프레임워크: Spring, Spring Boot
+- 데이터베이스: RDB(Mysql 예상)
+- WAS : Apache TomCat
+- UI : 간단한 반응형 웹 홈페이지 형태로 ring frameworkSp로 제작, view template는 드림코딩 등을 시청하며 홈페이지 꾸려 나가기
+
 <Software Engineering 적용>
 - 요구사항 정의해보기
 - usecase 정의해보기 
@@ -24,17 +28,17 @@
 - CI/CD Tool
 
 ## 어려웠던 점
-
+1. How to diagnose simple and correct member's mind and body?
+2. How to show unique design to customers?
+3. How to attract customers?
+   - Maybe able to refer book(마케팅 설계자)
+4. How to solve when the severity is high and web service cannot solve it?
 
 ## 결과
  
-### 공부 환경
-- 지속적으로 자극받으면서 기술 적용할 수 있는 환경에 대해 고민하기
-  - 스터디, 교육
 
-## Daily Implementation
-- 23/07/25: 간단한 Controller, 웹 홈페이지 구축 
-- 
+
+
 
 
 - 
