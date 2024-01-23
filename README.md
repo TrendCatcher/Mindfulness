@@ -18,7 +18,7 @@
 - 프레임워크: Spring, Spring Boot
 - 데이터베이스: RDB(Mysql 예상)
 - WAS : Apache TomCat
-- UI : 간단한 반응형 웹 홈페이지 형태로 ring frameworkSp로 제작, view template는 드림코딩 등을 시청하며 홈페이지 꾸려 나가기
+- UI : 간단한 반응형 웹 홈페이지 형태로 Spring framework로 제작, view template는 드림코딩 등을 시청하며 홈페이지 꾸려 나가기
 
 <Software Engineering 적용>
 - 요구사항 정의해보기
